@@ -1,4 +1,4 @@
-<!-- LIST TABLE ZEBRA STIPES (Header:Top) -->
+<!-- LIST TABLE ZEBRA STRIPES (Header:Top) -->
 <table class="table table-striped">
   <thead>
     <tr>
