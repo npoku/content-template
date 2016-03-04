@@ -1,0 +1,52 @@
+<!-- DATA TABLE -->
+<table class="table display" id="DataTable">
+    <thead>
+        <tr>
+            <th>Department</th>
+            <th>Email/Address</th>
+            <th>Phone/Extension</th>
+            <th>Fax</th>
+        </tr>
+    </thead>
+    <tfoot>
+    <tr>
+        <th>Department</th>
+        <th>Email/Address</th>
+        <th>Phone/Extension</th>
+        <th>Fax</th>
+    </tr>
+    </tfoot>
+    <tbody>
+        <tr>
+            <td><a href="#">Department A</a></td>
+            <td><a href="mailto:#">E-Mail</a></td>
+            <td>Ext. 2045</td>
+            <td>(111) 111-1111</td>
+        </tr>
+        <tr>
+            <td><a href="#">Department B</a></td>
+            <td><a href="mailto:#">E-Mail</a></td>
+            <td>Ext. 2050</td>
+            <td>(111) 111-2222</td>
+        </tr>
+        <tr>
+            <td><a href="#">Department C</a></td>
+            <td><a href="mailto:#">E-Mail</a></td>
+            <td>Ext. 3045</td>
+            <td>(111) 111-3333</td>
+        </tr>
+        <tr>
+            <td><a href="#">Department D</a></td>
+            <td><a href="mailto:#">E-Mail</a></td>
+            <td>Ext. 2050</td>
+            <td>(111) 111-4444</td>
+        </tr>
+        <tr>
+            <td><a href="#">Department E</a></td>
+            <td><a href="mailto:#">E-Mail</a></td>
+            <td>Ext. 4045</td>
+            <td>(111) 111-5555</td>
+        </tr>
+        
+    </tbody>
+</table>

@@ -1,0 +1,11 @@
+<!-- 2 COLUMN CONTENT -->
+<div class="row">
+  <table id="dupFrom" style="width: 100%; display:none;">
+    <tbody>
+        <tr>
+          <td class="ContentTemp_MainCol" style="width: 68%;"><p>Main Content</p></td><!-- /.ContentTemp_MainCol -->
+          <td class="ContentTemp_SideCol" style="width:30%"><p>Side Content</p></td><!-- /.ContentTemp_SideCol -->
+        </tr>
+    </tbody>
+  </table>
+</div> <!-- /.row -->

@@ -1,0 +1,31 @@
+<!-- LIST TABLE ZEBRA STRIPES (Header: Top & Left) -->
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Header Col.</th>
+      <th>Header Col.</th>
+      <th>Header Col.</th>
+      <th>Header Col.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Header Row</th>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th scope="row">Header Row</th>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <th scope="row">Header Row</th>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+  </tbody>
+</table>

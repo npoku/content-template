@@ -1,0 +1,11 @@
+<!-- ADDITIONAL SIDE CONTENT -->
+<h3>Title</h3>
+<p>Your related content can go here. You can even add a list</p>
+<ul>
+  <li>One</li>
+  <li>Two</li>
+  <li>Three</li>
+  <li>Four</li>
+  <li>Five</li>
+  <li>Six</li>
+</ul>
